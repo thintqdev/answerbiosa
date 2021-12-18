@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Readex+Pro:wght@500&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.Introduction {
+  font-family: "Readex Pro", sans-serif;
+}
+.Introduction .slogan {
+  width: 100%;
+  height: 300px;
+  text-align: center;
+  /* margin-top: 150px; */
+  padding-top: 100px;
+  border-style: solid;
+  background: url("https://www.w3schools.com/w3images/workbench.jpg");
+  /* filter: blur(px);
+    -webkit-filter: blur(0.5px); */
+  color: #5c0011;
+}
+.Introduction .slogan h1 {
+  font-size: 50px;
+  font-weight: bold;
+}
+
+.Introduction .feature {
+    width: 100%;
+    margin-top: 100px;
+    margin: 5px;
+    border: 1px solid #ccc;
+    display: flex;
+    justify-content: center;
+}
+.Introduction .feature .item{
+    width: 60%;
+    object-fit: cover;
+    text-align: center;
+}

@@ -1,0 +1,49 @@
+.container {
+  position: relative;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.card-form{
+    width: 500px ;
+    height: 500px ;
+    border: 1px solid darkgrey;
+    border-radius: 10px;
+    top: 0;
+    left: 0;
+    text-align: left;
+    padding: 24px;
+    margin-left: 30%;
+    margin-top: 30px;
+}
+.card-header{
+    color: #f5222d;
+    margin-bottom: 20px;
+}
+.form h3{
+    margin: 10px 0;
+    color: #f5222d;
+}
+.form-control{
+    padding: 10px;
+    border-radius: 5px;
+    width: 400px;
+    border: 1px solid darkgrey;
+    padding-bottom: 10px;
+}
+.form p{
+    color: #f5222d;
+    font-size:16px;
+    padding: 10px 0;
+}
+.form button{
+    width: 400px;
+    height: 50px;
+    background-color: #f5222d;
+    border-radius: 20px;
+    font-size: 20px;
+    color: white;
+    cursor: pointer;
+}
+.form button:hover{
+    background-color: #ff7875;
+    color: black;
+}

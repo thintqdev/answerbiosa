@@ -6,36 +6,36 @@
   box-sizing: border-box;
 }
 
-.App {
+.Home {
   width: 1100px;
   margin: 0 auto;
   text-align: center;
   font-family: "Roboto", sans-serif;
   margin-top: 50px;
 }
-.App h1 {
+.Home h1 {
   font-size: 50px;
   font-family: "Lobster", cursive;
   margin-bottom: 20px;
   color: #a8071a;
 }
-.App form {
+.Home form {
   display: inline-block;
   border-radius: 20px;
   box-shadow: 0 0 19px 1px rgba(0, 0, 0, 0.39);
   margin-bottom: 30px;
 }
-.App input {
+.Home input {
   line-height: 40px;
   border-radius: 20px 0 0 20px;
   border: none;
   width: 400px;
   padding: 0 20px;
 }
-.App input:focus {
+.Home input:focus {
   outline: none;
 }
-.App button {
+.Home button {
   line-height: 40px;
   border: none;
   background-color: #f6f6f6;
@@ -43,6 +43,6 @@
   border-radius: 0 20px 20px 0;
   cursor: pointer;
 }
-.App button:focus {
+.Home button:focus {
   outline: none;
 }
