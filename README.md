@@ -13,4 +13,6 @@ Sau khi hoàn tất mình có thể dùng:
 - !pip install google-search-results
 - bottle
 - pip install bottle-cors-plugin
+
+
 Để chạy được thì cần vào trang https://serpapi.com/ đăng ký và lấy api bỏ vào file config.py trong phần server api
